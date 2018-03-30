@@ -53,8 +53,8 @@
 
     "notifications.background": "#282c35",
 
-    "statusBar.background": "#282c35",
-    "statusBar.border": "#282c35",
+    "statusBar.background": "#1d2026",
+    "statusBar.border": "#1d2026",
     "statusBar.noFolderBackground": "#1d2026",
     "statusBar.noFolderBorder": "#282c35",
 
