@@ -13,14 +13,14 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.19.3"
   },
   "contributes": {
     "themes": [
       {
         "label": "Night Sky",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night Sky-color-theme.json"
+        "path": "./theme/Night Sky-color-theme.json"
       }
     ]
   }
