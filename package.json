@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Night Sky VSCode Theme",
   "repository": "https://github.com/ChrisRu/vscode-nightsky",
+  "publisher": "ChrisRu",
   "author": "ChrisRu",
   "license": "MIT",
   "categories": ["Themes"],
