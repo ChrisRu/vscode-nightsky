@@ -69,7 +69,7 @@
     "titleBar.inactiveForeground": "#b2b2b3",
     "titleBar.inactiveBackground": "#f6f6f6",
 
-    "terminal.background": "#1d2026",
+    "terminal.background": "#282c35",
     "terminal.foreground": "#c0c5ce",
     "terminal.ansiBlack": "#1d2026",
     "terminal.ansiRed": "#ec5f67",
