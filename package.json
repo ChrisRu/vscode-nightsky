@@ -1,19 +1,23 @@
 {
   "name": "vscode-nightsky",
   "displayName": "Night Sky Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Night Sky VSCode Theme",
-  "repository": "https://github.com/ChrisRu/vscode-nightsky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisRu/vscode-nightsky"
+  },
   "publisher": "ChrisRu",
   "author": "ChrisRu",
   "license": "MIT",
+  "icon": "images/logo.png",
   "categories": ["Themes"],
   "galleryBanner": {
-    "color": "#323330",
+    "color": "#282C35",
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.19.3"
+    "vscode": "^1.15.0"
   },
   "contributes": {
     "themes": [

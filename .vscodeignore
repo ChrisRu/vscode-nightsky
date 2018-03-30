@@ -1,1 +1,6 @@
-images
+images/screenshot.png
+.git
+.vscode/**
+.gitattributes
+.gitignore
+.editorconfig
