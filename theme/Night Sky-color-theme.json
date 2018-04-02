@@ -12,32 +12,31 @@
     "editorWhitespace.foreground": "#65737e",
 
     "sideBar.background": "#1d2026",
-    "sideBarSectionHeader.background": "#303540",
+    "sideBarSectionHeader.background": "#282c35",
 
     "activityBar.background": "#282c35",
     "activityBar.foreground": "#d8dee9",
-    "activityBarBadge.background": "#6699cc",
-    "activityBarBadge.foreground": "#d8dee9",
+    "activityBarBadge.background": "#4e9b9b",
+    "activityBarBadge.foreground": "#fff",
 
     "badge.background": "#303540",
     "badge.foreground": "#d8dee9",
 
-    "button.background": "#5fb3b3",
-    "button.hoverBackground": "#4e9b9b",
+    "button.background": "#4e9b9b",
+    "button.hoverBackground": "#458b8b",
 
     "dropdown.background": "#1d2026",
-    "dropdown.border": "#6699cc",
+    "dropdown.border": "#1d2026",
     "dropdown.foreground": "#ffffff",
 
     "editorGroupHeader.tabsBackground": "#1d2026",
     "editorGroupHeader.tabsBorder": "#282c35",
 
     "editorSuggestWidget.background": "#1d2026",
-    "editorSuggestWidget.border": "#6699cc",
+    "editorSuggestWidget.border": "#505a64",
     "editorSuggestWidget.selectedBackground": "#282c35",
 
     "errorForeground": "#ec5f67",
-
     "focusBorder": "#1d2026",
 
     "input.background": "#0F1114",
@@ -45,20 +44,18 @@
     "inputValidation.errorBackground": "#ec5f67",
     "inputValidation.infoBackground": "#99c794",
 
-    "list.activeSelectionBackground": "#282c35",
+    "list.activeSelectionBackground": "#303540",
     "list.inactiveSelectionBackground": "#303540",
     "list.hoverBackground": "#303540",
     "list.inactiveFocusBackground": "#303540",
     "list.focusBackground": "#303540",
-
-    "notifications.background": "#282c35",
 
     "statusBar.background": "#1d2026",
     "statusBar.border": "#1d2026",
     "statusBar.noFolderBackground": "#1d2026",
     "statusBar.noFolderBorder": "#282c35",
 
-    "tab.activeBorder": "#62b3b2",
+    "tab.activeBorder": "#4e9b9b",
     "tab.activeBackground": "#282c35",
     "tab.hoverBackground": "#282c35",
     "tab.inactiveBackground": "#1d2026",
@@ -91,7 +88,10 @@
 
     "terminal.selectionBackground": "#4f5b66",
     "terminalCursor.background": "#1d2026",
-    "terminalCursor.foreground": "#c0c5ce"
+    "terminalCursor.foreground": "#c0c5ce",
+
+    "notificationCenterHeader.background": "#282c35",
+    "notifications.background": "#1d2026"
   },
   "tokenColors": [
     {
