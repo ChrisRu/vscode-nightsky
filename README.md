@@ -1,6 +1,6 @@
 # Night Sky Theme for VSCode
 
-[![Licence](https://img.shields.io/github/license/ChrisRu/vscode-nightsky.svg)](https://github.com/ChrisRu/vscode-nightsky)
+[![Licence](https://img.shields.io/github/license/ChrisRu/vscode-nightsky.svg)](https://github.com/ChrisRu/vscode-nightsky/blob/master/LICENSE.md)
 [![Version](https://vsmarketplacebadge.apphb.com/version/ChrisRu.vscode-nightsky.svg)](https://marketplace.visualstudio.com/items?itemName=ChrisRu.vscode-nightsky)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ChrisRu.vscode-nightsky.svg)](https://marketplace.visualstudio.com/items?itemName=ChrisRu.vscode-nightsky)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/ChrisRu.vscode-nightsky.svg)](https://marketplace.visualstudio.com/items?itemName=ChrisRu.vscode-nightsky)
