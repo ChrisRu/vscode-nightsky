@@ -8,6 +8,7 @@
 ## Preview
 
 ![](https://raw.githubusercontent.com/ChrisRu/vscode-nightsky/master/images/screenshot.png)
+_Font in the screenshot is 'Monaco'_
 
 ## Installation
 
