@@ -1,7 +1,7 @@
 {
   "name": "vscode-nightsky",
   "displayName": "Night Sky Theme",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Night Sky VSCode Theme",
   "repository": {
     "type": "git",
@@ -11,7 +11,9 @@
   "author": "ChrisRu",
   "license": "MIT",
   "icon": "images/logo.png",
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "galleryBanner": {
     "color": "#282C35",
     "theme": "dark"
@@ -20,12 +22,17 @@
     "vscode": "^1.15.0"
   },
   "contributes": {
-    "themes": [
-      {
-        "label": "Night Sky",
-        "uiTheme": "vs-dark",
-        "path": "./theme/Night Sky-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "Night Sky",
+      "uiTheme": "vs-dark",
+      "path": "./theme/Night Sky-color-theme.json"
+    }]
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12",
+    "vsce": "^1.36.2"
   }
 }
