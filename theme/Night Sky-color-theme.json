@@ -95,6 +95,7 @@
   },
   "tokenColors": [
     {
+      "name": "Global settings",
       "settings": {
         "foreground": "#cdd3de"
       }
@@ -115,10 +116,27 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type"],
+      "scope": [
+        "keyword",
+        "storage",
+        "storage.type",
+        "storage.type.property.js",
+        "storage.type.property.ts",
+        "storage.type.property.tsx"
+      ],
       "settings": {
         "foreground": "#c594c5"
       }
+    },
+    {
+      "name": "TypeScript[React] Punctuation Decorators",
+      "scope": [
+        "meta.decorator punctuation.decorator.ts",
+        "meta.decorator punctuation.decorator.tsx"
+      ],
+      "settings": {
+        "foreground": "#6699cc"
+        }
     },
     {
       "name": "Operator, Misc",
@@ -155,7 +173,6 @@
       "name": "Function, Special Method, Block Level",
       "scope": [
         "entity.name.function",
-        "meta.function-call",
         "variable.function",
         "support.function",
         "keyword.other.special-method",
