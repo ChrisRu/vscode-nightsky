@@ -33,3 +33,7 @@ _Font in the screenshot is 'Monaco'_
 ## Inspiration
 
 This theme is inspired by the Ocean Next theme and Plastic deprioritized punctuation theme and modified to style the sidebar and have a darker background.
+
+## Publish details
+
+This extension is both published to [Open VSX](https://open-vsx.org/) and the [VSCode marketplace](https://marketplace.visualstudio.com/).
