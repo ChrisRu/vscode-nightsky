@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/ChrisRu/vscode-nightsky/master/images/screenshot.png)
 _Font in the screenshot is 'Monaco'_
 
-## Installation
+## User Installation
 
 1.  Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 
@@ -22,8 +22,14 @@ _Font in the screenshot is 'Monaco'_
 
 5.  Code > Preferences > Color Theme > **Night Sky**
 
-6.  Optional: Use the recommended settings below for best experience
+## Development
+
+1. Install the dependencies using either `yarn` or `npm install`
+
+2. In VSCode, open the debug window (Ctrl+Shift+D) and start a debug window of VSCode that automatically reloads on changes.
+
+3. (Optionally) use command (Ctrl+Shift+P) `Debugger: Inspect Editor Tokens and Scopes` to find the token identifiers for easier development
 
 ## Inspiration
 
-This theme is inspired by the Ocean Next theme and modified to style the sidebar and have a darker background.
+This theme is inspired by the Ocean Next theme and Plastic deprioritized punctuation theme and modified to style the sidebar and have a darker background.
